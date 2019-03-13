@@ -1,0 +1,6 @@
+brew "python"
+cask "firefox"
+cask "google-chrome"
+cask "vagrant"
+cask "virtualbox"
+cask "virtualbox-extension-pack"
