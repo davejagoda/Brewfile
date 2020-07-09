@@ -1,6 +1,8 @@
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
+brew "pipenv"
+brew "python"
 cask "emacs"
 cask "vagrant"
 cask "virtualbox"
